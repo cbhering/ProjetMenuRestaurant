@@ -1,0 +1,77 @@
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csprojAssemblyReference.cache
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+F:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants (solution FK) - IG - Copy\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csprojAssemblyReference.cache
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+G:\C# ADO.NET IG-2\CS-ADO-IG\ExerciceRestoComposants3c (solution FK) - IG\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csprojAssemblyReference.cache
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csprojAssemblyReference.cache
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+C:\Users\e\Desktop\ExerciceRestoComposants3c (solution FK) - IG v2\Exercice1\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csprojAssemblyReference.cache
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+C:\Users\e\Desktop\TP2 - Pedro Ferreira\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csprojAssemblyReference.cache
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+C:\Users\e\Dropbox\Backup_pendrive\Session_Ete_2020\Prog_BDD_avancee\TP2_Conrado Bhering\Exercice2\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
